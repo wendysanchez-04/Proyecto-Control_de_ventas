@@ -1,0 +1,20 @@
+[
+    {
+        "id_producto": "PROD-001",
+        "nombre": "Laptop Oficina Intel i5",
+        "precio_unitario": 650.0,
+        "stock": 17
+    },
+    {
+        "id_producto": "PROD-002",
+        "nombre": "Monitor Profesional 27'",
+        "precio_unitario": 220.0,
+        "stock": 13
+    },
+    {
+        "id_producto": "PROD-003",
+        "nombre": "Estación de Carga USB-C",
+        "precio_unitario": 45.0,
+        "stock": 94
+    }
+]
