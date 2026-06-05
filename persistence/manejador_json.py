@@ -36,3 +36,5 @@ class ManejadorJSON:
             return [Producto(d["id_producto"], d["nombre"], d["precio_unitario"], d["stock"]) for d in datos]
         except Exception:
             return []
+        
+    

@@ -15,24 +15,27 @@
         "id_producto": "PROD-003",
         "nombre": "Estación de Carga USB-C",
         "precio_unitario": 45.0,
-        "stock": 100
+        "stock": 99
     },
     {
         "id_producto": "PROD-004",
         "nombre": "samsung a16",
         "precio_unitario": 350.0,
         "stock": 50
-    },{
+    },
+    {
         "id_producto": "PROD-005",
         "nombre": "iphone 16 pro Max",
         "precio_unitario": 800.0,
         "stock": 10
-    },{
+    },
+    {
         "id_producto": "PROD-006",
         "nombre": "redmi note 14",
         "precio_unitario": 250.0,
         "stock": 8
-    },{
+    },
+    {
         "id_producto": "PROD-007",
         "nombre": " Infinix hot 60 pro",
         "precio_unitario": 320.0,
